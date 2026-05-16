@@ -9,6 +9,10 @@ This project analyzes beauty product pricing, customer ratings, and consumer eng
 - SQL
 - Tableau Public
 - GitHub
+  
+## Final Dashboard
+<img width="1710" height="1069" alt="BeautyProductConsumerInsightAnalysisDashboardSS" src="https://github.com/user-attachments/assets/2de77b35-21cd-496b-908b-a02e83824b1f" />
+
 
 ## Key Questions Answered
 - Which beauty brands have the highest ratings?
